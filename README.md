@@ -7,7 +7,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [The challenge](#the-challenge)
-  - [Links](#links)
+  - [Live Site](#live-site)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -41,7 +41,7 @@ Users should be able to:
 
 
 
-### Links
+### Live Site
 
 - Live Site URL: [https://ahmed-abo-rafat.github.io/interactive-rating-component/)
 
