@@ -19,13 +19,15 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Overview
 
 ### Screenshot
+<a href="https://ahmed-abo-rafat.github.io/interactive-rating-component/"> 
+  <img
+    src="./image/screen1.PNG"
+    alt="profile"
+    title="profile"
+    style="display: inline-block; margin: 0 auto; max-width: 300px"
+ />
+</a>
 
-<img
-  src="./image/screen1.PNG"
-  alt="profile"
-  title="profile"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"
-/>
 
 
 ### The challenge
