@@ -53,7 +53,7 @@ Users should be able to:
 - CSS Grid
 - Javascript
 - Mobile-first workflow
-- [Bootstrap](https://getbootstrap.com/) - HTM and CSS library
+- [Bootstrap](https://getbootstrap.com/) - HTML and CSS library
 
 
 ### What I learned
