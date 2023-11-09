@@ -27,13 +27,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
 
-<img
-  src="./image/screen2.PNG"
-  alt="profile"
-  title="profile"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"
-/>
-
 
 ### The challenge
 
